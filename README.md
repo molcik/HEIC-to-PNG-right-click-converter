@@ -1,0 +1,1 @@
+# HEIC-to-PNG-right-click-converter
